@@ -318,37 +318,37 @@ topics:
         criteria:
           - "Comfortably supports and interacts with C-level executives"
 ---
-### About our engineering progression frameworks
-The engineering progression framework is a tool that helps engineers and managers:
-- make development and career plans
-- talk about what we’re looking for from engineers in a consistent way
-- set a fair level of compensation.
 
-The framework is a compass, not a GPS.
+### Estrutura de progressão - Level-Up
+A estrutura de progressão Level-Up é uma ferramenta que ajuda Data Analytics, Data Scientists, Data Engineers e Data Product Managers a:
+Fazer planos de desenvolvimento e carreira.
+Falar sobre o que procuramos de maneira consistente.
+Definir um nível justo de compensação.
+A estrutura é uma bússola, não um GPS.
+ 
+### Como funciona?
+A estrutura cobre todas as coisas que estamos procurando das pessoas de dados na Tembici. Estamos interessados ​​nestes cinco elementos:
+Maestria - Seu conhecimento Tembici e capacidade técnica
+Impacto - O tamanho, escopo e valor do que você entrega
+Influência - Como você muda o mundo ao seu redor para melhor
+Comunicações e feedback - Como você interage com outras pessoas
+Liderança - como as pessoas ao seu redor se tornam melhores e mais impactantes
 
-It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
+Nós os classificamos em seis níveis e tentamos dar exemplos específicos de comportamentos que esperamos para cada um. A idéia é que cada um desses níveis tenha uma faixa salarial bastante ampla associada a ele e, dentro de cada nível, você poderá progredir em subníveis, rotulados de 1 a 5. Portanto, mesmo que você esteja no nível C por alguns anos, ainda poderá ver que está avançando. Basicamente, quanto mais comportamentos você mostrar em seu nível, mais você progredirá.
+Seu gerente trabalhará com você nisso. Nada disso acontecerá misteriosamente a portas fechadas. Você concordará em qual nível de progressão está buscando e o que precisa melhorar com seu gerente. Deve ficar claro como você está se saindo em relação a isso o tempo todo.
 
-### How does it work?
-The framework covers all the things we’re looking for from engineers at Monzo. We’re interested in these five elements:
-- Mastery - Your Monzo knowledge and technical capability
-- Impact - The size, scope and value of what you deliver
-- Influence - How you change the world around you for the better
-- Comms & Feedback - How you interact with others
-- Leadership - How people around you become better and more impactful
+### Coisas a ter em mente
 
-We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
+Existem muitas maneiras diferentes de progredir e ser valioso, conforme você cresce, incluindo profundo conhecimento técnico e capacidade, liderança técnica e gestão de pessoas. Todos são caminhos igualmente valiosos no time de dados da Tembici.
+A estrutura representa a progressão de uma carreira, as pessoas não devem esperar voar nela em 18 meses!
+A progressão da engenharia não é uma ciência exata e sempre haverá alguma ambigüidade.
+Esta não é uma lista de verificação - é possível avançar um nível sem mostrar todos os comportamentos naquele nível.
+Haverá níveis no topo (por exemplo, 'Inventor do Bike Sharing' ou 'Autor do Python'), mas não os adicionaremos até que precisemos deles.
+Você pode encontrar mais algumas informações nestes links. Se isso não responder à maioria das suas perguntas, pergunte ao seu gerente.
 
-Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
+### Dê-nos a sua opinião!
+Esta é apenas a primeira versão do nosso framework e realmente queremos seu feedback!
+Estamos particularmente interessados ​​em adicionar tantos exemplos aos comportamentos quanto possível, para esclarecê-los ainda mais.
 
-### Things to keep in mind
-- There are many different ways to progress and be valuable to Monzo as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Monzo's engineering team.
-- The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
-- Engineering progression isn’t an exact science and there will always be some ambiguity.
-- This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.
-- There will be levels on top (eg ‘Inventor of Android’ or ‘Author of Go’), but we won’t add them until we need them.
-- You can find some more information in these links. If that doesn't answer most of your questions, please ask your manager.
+#### YOU ARE S.P.E.C.I.A.L.!
 
-### Give us your feedback!
-This is only the first version of our framework and we really want your feedback.
-
-We're particularly keen to add as many examples to the behaviours as possible, to further clarify them.
